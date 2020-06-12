@@ -1,2 +1,2 @@
 
-<h2 align = 'center'>task from stepik.org</h2>
+<h2 align = 'center'>Task from stepik.org</h2>
