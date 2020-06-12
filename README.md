@@ -1,2 +1,2 @@
-# Cmath
-<p align="center">i dont understend how it...</p>
+
+<h2 align center>task from stepik.org</h2>
